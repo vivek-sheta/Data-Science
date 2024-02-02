@@ -1,0 +1,751 @@
+,title,year,genre,ratting
+0,Peacemaker,(2022– ),"Action, Adventure, Comedy",8.4
+1,Moon Knight,(2022– ),"Action, Adventure, Drama", 
+2,The Lord of the Rings: The Rings of Power,(2022– ),"Action, Adventure, Drama", 
+3,The Witcher,(2019– ),"Action, Adventure, Drama",8.2
+4,Shingeki no Kyojin,(2013–2022),"Animation, Action, Adventure",9.0
+5,Game of Thrones,(2011–2019),"Action, Adventure, Drama",9.2
+6,Station Eleven,(2021–2022),"Adventure, Drama, Fantasy",7.7
+7,A Discovery of Witches,(2018–2022),"Drama, Fantasy, Romance",8.0
+8,The Mandalorian,(2019– ),"Action, Adventure, Fantasy",8.8
+9,The Wheel of Time,(2021– ),"Action, Adventure, Drama",7.2
+10,Daredevil,(2015–2018),"Action, Crime, Drama",8.6
+11,Demon Slayer: Kimetsu No Yaiba,(2019– ),"Animation, Action, Adventure",8.7
+12,Arcane: League of Legends,(2021– ),"Animation, Action, Adventure",9.1
+13,Wolf Like Me,(2022– ),"Comedy, Fantasy, Romance",7.4
+14,Supernatural,(2005–2020),"Drama, Fantasy, Horror",8.4
+15,Stranger Things,(2016– ),"Drama, Fantasy, Horror",8.7
+16,Ghosts,(2021– ),"Comedy, Fantasy",7.6
+17,Outlander,(2014– ),"Drama, Fantasy, Romance",8.4
+18,One Piece: Wan pîsu,(1999– ),"Animation, Action, Adventure",8.7
+19,Lucifer,(2016–2021),"Crime, Drama, Fantasy",8.1
+20,Titans,(I) (2018– ),"Action, Adventure, Crime",7.6
+21,Midnight Mass,(2021),"Drama, Fantasy, Horror",7.7
+22,House of the Dragon,(2022– ),"Action, Adventure, Drama", 
+23,Dota: Dragon's Blood,(2021– ),"Animation, Action, Adventure",7.9
+24,Lost,(2004–2010),"Adventure, Drama, Fantasy",8.3
+25,The Vampire Diaries,(2009–2017),"Drama, Fantasy, Horror",7.7
+26,Loki,(2021– ),"Action, Adventure, Fantasy",8.3
+27,The Legend of Vox Machina,(2022– ),"Animation, Action, Adventure",9.4
+28,Raised by Wolves,(2020– ),"Drama, Fantasy, Sci-Fi",7.5
+29,WandaVision,(2021),"Action, Comedy, Drama",8.0
+30,Shadow and Bone,(2021– ),"Action, Adventure, Drama",7.7
+31,What We Do in the Shadows,(2016– ),"Comedy, Fantasy, Horror",8.6
+32,Locke & Key,(2020– ),"Drama, Fantasy, Horror",7.4
+33,Buffy the Vampire Slayer,(1997–2003),"Action, Drama, Fantasy",8.2
+34,The Umbrella Academy,(2019– ),"Action, Adventure, Comedy",8.0
+35,Once Upon a Time,(2011–2018),"Adventure, Fantasy, Romance",7.7
+36,Ghosts,(2019– ),"Comedy, Fantasy",8.3
+37,Legacies,(2018– ),"Adventure, Drama, Fantasy",7.4
+38,Invincible,(2021– ),"Animation, Action, Adventure",8.7
+39,True Blood,(2008–2014),"Drama, Fantasy, Mystery",7.8
+40,The Originals,(2013–2018),"Drama, Fantasy, Horror",8.2
+41,Britannia,(2017– ),"Action, Drama, Fantasy",6.8
+42,Star Wars: The Clone Wars,(2008–2020),"Animation, Action, Adventure",8.3
+43,The Good Place,(2016–2020),"Comedy, Drama, Fantasy",8.2
+44,The Leftovers,(2014–2017),"Drama, Fantasy, Mystery",8.3
+45,Charmed,(1998–2006),"Drama, Fantasy, Mystery",7.1
+46,Teen Wolf,(2011–2017),"Action, Drama, Fantasy",7.6
+47,Invasion,(2021– ),"Drama, Fantasy, Sci-Fi",6.0
+48,His Dark Materials,(2019–2022),"Adventure, Drama, Family",7.9
+49,Jigeum Uri Hakgyoneun,(2022– ),"Action, Drama, Fantasy",8.3
+50,Avatar: The Last Airbender,(2005–2008),"Animation, Action, Adventure",9.3
+51,Carnival Row,(2019– ),"Crime, Drama, Fantasy",7.8
+52,The Nevers,(2021– ),"Action, Drama, Fantasy",7.4
+53,Boku no hîrô akademia,(2016– ),"Animation, Action, Adventure",8.4
+54,The Cuphead Show!,(2022– ),"Animation, Action, Adventure", 
+55,The Stand,(2020–2021),"Adventure, Drama, Fantasy",5.5
+56,Ms. Marvel,(2022– ),"Action, Adventure, Comedy", 
+57,Grimm,(2011–2017),"Crime, Drama, Fantasy",7.8
+58,Ironheart,,"Action, Adventure, Drama", 
+59,Reign,(2013–2017),"Drama, Fantasy",7.5
+60,Naruto: Shippûden,(2007–2017),"Animation, Action, Adventure",8.6
+61,JoJo no kimyô-na bôken,(2012– ),"Animation, Action, Adventure",8.4
+62,Nancy Drew,(2019– ),"Drama, Fantasy, Horror",6.6
+63,The Outsider,(2020),"Crime, Drama, Fantasy",7.7
+64,The Defenders,(2017),"Action, Adventure, Crime",7.2
+65,Iron Fist,(2017–2018),"Action, Adventure, Crime",6.4
+66,Death Note: Desu nôto,(2006–2007),"Animation, Crime, Drama",9.0
+67,Hunter x Hunter,(2011–2014),"Animation, Action, Adventure",9.0
+68,The Twilight Zone,(1959–1964),"Drama, Fantasy, Horror",9.0
+69,Jujutsu Kaisen,(2020– ),"Animation, Action, Adventure",8.7
+70,Star Wars: The Bad Batch,(2021– ),"Animation, Action, Adventure",7.9
+71,Jiok,(2021– ),"Crime, Drama, Fantasy",6.7
+72,The Sandman,(2022– ),"Drama, Fantasy, Horror", 
+73,Good Omens,(2019),"Comedy, Fantasy",8.1
+74,Miraculous: Tales of Ladybug & Cat Noir,(2015– ),"Animation, Action, Adventure",7.7
+75,Angel,(1999–2004),"Action, Drama, Fantasy",7.9
+76,American Gods,(2017–2021),"Drama, Fantasy, Mystery",7.7
+77,Merlin,(2008–2012),"Adventure, Drama, Fantasy",7.9
+78,Naruto,(2002–2007),"Animation, Action, Adventure",8.3
+79,Stargirl,(2020– ),"Action, Adventure, Crime",7.2
+80,Bewitched,(1964–1972),"Comedy, Family, Fantasy",7.6
+81,Black Clover,(2017–2021),"Animation, Action, Adventure",8.3
+82,Ôsama Ranking,(2021– ),"Animation, Adventure, Comedy",9.1
+83,The Magicians,(2015–2020),"Drama, Fantasy, Mystery",7.6
+84,Sweet Tooth,(2021– ),"Action, Adventure, Drama",7.8
+85,Bleach: Burîchi,(2004–2012),"Animation, Action, Adventure",8.2
+86,Gravity Falls,(2012–2016),"Animation, Action, Adventure",8.9
+87,Hagane no renkinjutsushi,(2009–2012),"Animation, Action, Adventure",9.1
+88,Adventure Time,(2010–2018),"Animation, Action, Adventure",8.6
+89,Fate: The Winx Saga,(2021– ),"Action, Adventure, Drama",6.9
+90,SpongeBob SquarePants,(1999– ),"Animation, Comedy, Family",8.2
+91,Heroes,(II) (2006–2010),"Drama, Fantasy, Sci-Fi",7.5
+92,The OA,(2016–2019),"Drama, Fantasy, Mystery",7.8
+93,Castlevania,(2017–2021),"Animation, Action, Adventure",8.3
+94,One Punch Man: Wanpanman,(2015–2019),"Animation, Action, Comedy",8.8
+95,"Love, Death & Robots",(2019– ),"Animation, Short, Action",8.5
+96,Miracle Workers,(2019– ),"Comedy, Drama, Fantasy",7.1
+97,Star Wars: Rebels,(2014–2018),"Animation, Action, Adventure",8.0
+98,Shadowhunters: The Mortal Instruments,(2016–2019),"Action, Drama, Fantasy",6.6
+99,Harley Quinn,(2019– ),"Animation, Action, Adventure",8.5
+100,Inside Job,(2021– ),"Animation, Comedy, Fantasy",7.7
+101,The Witcher: Blood Origin,(2022– ),"Action, Adventure, Drama", 
+102,Chilling Adventures of Sabrina,(2018–2020),"Drama, Fantasy, Horror",7.4
+103,Armor Wars,,"Action, Adventure, Drama", 
+104,Fantasy Island,(2021– ),"Adventure, Drama, Fantasy",6.1
+105,Home Movie: The Princess Bride,(2020– ),"Short, Comedy, Fantasy",7.5
+106,Castle Rock,(2018–2019),"Drama, Fantasy, Horror",7.6
+107,Boruto: Naruto Next Generations,(2017– ),"Animation, Action, Adventure",7.0
+108,Good Witch,(2015–2021),"Comedy, Drama, Fantasy",7.3
+109,Penny Dreadful,(2014–2016),"Drama, Fantasy, Horror",8.2
+110,Cursed,(2020),"Adventure, Drama, Fantasy",5.9
+111,Sabrina the Teenage Witch,(1996–2003),"Comedy, Family, Fantasy",6.7
+112,The Strain,(2014–2017),"Drama, Fantasy, Horror",7.3
+113,Lost in Space,(1965–1968),"Adventure, Comedy, Family",7.2
+114,Lovecraft Country,(2020),"Drama, Fantasy, Horror",7.1
+115,High School DxD,(2012–2018),"Animation, Action, Comedy",7.6
+116,Batman,(1966–1968),"Action, Adventure, Comedy",7.5
+117,Motherland: Fort Salem,(2020–2022),"Drama, Fantasy, Sci-Fi",7.3
+118,Van Helsing,(2016–2021),"Action, Drama, Fantasy",6.2
+119,The Legend of Korra,(2012–2014),"Animation, Action, Adventure",8.3
+120,Disenchantment,(2018– ),"Animation, Action, Adventure",7.2
+121,Bulgasal,(2021– ),"Drama, Fantasy, Thriller",7.5
+122,Dragon Ball Z,(1989–2003),"Animation, Action, Adventure",8.7
+123,Warrior Nun,(2020– ),"Action, Drama, Fantasy",6.9
+124,Misfits,(2009–2013),"Comedy, Drama, Fantasy",8.2
+125,Preacher,(2016–2019),"Adventure, Drama, Fantasy",7.9
+126,The Shannara Chronicles,(2016–2017),"Adventure, Fantasy, Sci-Fi",7.2
+127,Jupiter's Legacy,(2021),"Action, Adventure, Drama",6.7
+128,Wu Assassins,(2019),"Action, Crime, Drama",6.4
+129,Supernatural Academy,(2021– ),"Animation, Drama, Fantasy",6.9
+130,Dirk Gently's Holistic Detective Agency,(2016–2017),"Action, Adventure, Comedy",8.2
+131,The Outpost,(2018–2021),"Action, Adventure, Drama",6.5
+132,Star Wars: Visions,(2021– ),"Animation, Action, Adventure",7.1
+133,Ragnarok,(2020– ),"Action, Drama, Fantasy",7.5
+134,Ahsoka,,"Action, Adventure, Drama", 
+135,Charmed,(2018– ),"Drama, Fantasy, Mystery",4.7
+136,The Order,(2019–2020),"Drama, Fantasy, Horror",6.8
+137,Ghost Whisperer,(2005–2010),"Drama, Fantasy",6.4
+138,The Stand,(1994),"Adventure, Drama, Fantasy",7.2
+139,Sweet Home,(2020– ),"Drama, Fantasy, Horror",7.4
+140,The Twilight Zone,(2019–2020),"Drama, Fantasy, Horror",5.8
+141,Regular Show,(2009–2017),"Animation, Action, Adventure",8.5
+142,Avatar: The Last Airbender,,"Action, Adventure, Comedy", 
+143,Firebite,(2021– ),Fantasy,5.0
+144,Spider-Man: Freshman Year,,"Animation, Action, Adventure", 
+145,Sword Art Online,(2012– ),"Animation, Action, Adventure",7.5
+146,The Owl House,(2020– ),"Animation, Action, Adventure",8.0
+147,I Am Not Okay with This,(2020),"Comedy, Drama, Fantasy",7.5
+148,Pushing Daisies,(2007–2009),"Comedy, Drama, Fantasy",8.3
+149,I Am Groot,(2022– ),"Animation, Short, Action", 
+150,Galavant,(2015–2016),"Adventure, Comedy, Fantasy",8.1
+151,Creepshow,(2019– ),"Fantasy, Horror, Mystery",7.1
+152,The Librarians,(2013–2018),"Action, Adventure, Comedy",7.3
+153,Future Man,(2017–2020),"Action, Adventure, Comedy",7.7
+154,Ally McBeal,(1997–2002),"Comedy, Drama, Fantasy",6.8
+155,Into the Dark,(2018– ),"Drama, Fantasy, Horror",6.4
+156,Sleepy Hollow,(2013–2017),"Action, Adventure, Crime",7.4
+157,Nanatsu no taizai,(2014–2021),"Animation, Action, Adventure",7.9
+158,Dracula,(2020– ),"Drama, Fantasy, Horror",6.8
+159,Yakusoku no Neverland,(2019–2021),"Animation, Action, Adventure",8.4
+160,Mushoku-tensei ~Isekai ittara honki dasu~,(2021– ),"Animation, Adventure, Drama",8.4
+161,The Gifted,(I) (2017–2019),"Action, Drama, Fantasy",7.3
+162,I Dream of Jeannie,(1965–1970),"Comedy, Family, Fantasy",7.4
+163,Tokyo Ghoul,(2014),"Animation, Action, Drama",7.8
+164,Eternals,(2014– ),"Animation, Adventure, Fantasy",6.4
+165,Critical Role,(2015– ),"Adventure, Fantasy",9.2
+166,Carnivàle,(2003–2005),"Drama, Fantasy, Mystery",8.4
+167,Kenpû Denki Berserk,(1997–1998),"Animation, Action, Adventure",8.7
+168,Wynonna Earp,(2016–2021),"Action, Drama, Fantasy",7.5
+169,Marvel Zombies,,"Animation, Action, Adventure", 
+170,Xena: Warrior Princess,(1995–2001),"Action, Adventure, Drama",6.7
+171,Poketto monsutâ,(1997– ),"Animation, Action, Adventure",7.5
+172,Steven Universe,(2013–2020),"Animation, Action, Adventure",8.1
+173,Beauty and the Beast,(1987–1990),"Crime, Fantasy, Drama",7.0
+174,Sseulsseulhago Chalranhashin: Dokkaebi,(2016–2017),"Comedy, Drama, Fantasy",8.6
+175,Wednesday,(2022– ),"Comedy, Family, Fantasy", 
+176,Swamp Thing,(2019),"Action, Adventure, Drama",7.5
+177,Siren,(2018–2020),"Drama, Fantasy",7.0
+178,Sanctuary,(2008–2011),"Action, Drama, Fantasy",7.3
+179,Amphibia,(2019– ),"Animation, Short, Action",8.1
+180,Bad and Crazy,(2021– ),"Action, Crime, Drama",8.7
+181,H2O: Just Add Water,(2006–2010),"Drama, Family, Fantasy",7.3
+182,Final Space,(2018–2021),"Animation, Action, Adventure",8.2
+183,Hemlock Grove,(2013–2015),"Drama, Fantasy, Horror",7.1
+184,Over the Garden Wall,(2014),"Animation, Adventure, Comedy",8.8
+185,Boku dake ga inai machi,(2016),"Animation, Drama, Fantasy",8.5
+186,Masters of the Universe: Revelation,(2021– ),"Animation, Short, Action",5.2
+187,Ancient Aliens,(2009– ),"Documentary, Fantasy, History",7.2
+188,DuckTales,(2017–2021),"Animation, Action, Adventure",8.2
+189,Medium,(2005–2011),"Crime, Drama, Fantasy",7.0
+190,Re:Zero kara hajimeru isekai seikatsu,(2016– ),"Animation, Adventure, Drama",8.1
+191,Willow,(2022– ),"Action, Adventure, Drama", 
+192,Sesame Street,(1969– ),"Animation, Adventure, Comedy",8.1
+193,Fantasy Island,(1977–1984),"Adventure, Comedy, Drama",6.5
+194,Tales from the Crypt,(1989–1996),"Comedy, Crime, Fantasy",8.0
+195,Haepiniseu,(2021– ),"Action, Fantasy, Horror",8.3
+196,Hit-Monkey,(2021– ),"Animation, Action, Adventure",7.9
+197,Sliders,(1995–2000),"Adventure, Fantasy, Sci-Fi",7.4
+198,The Outer Limits,(1995–2002),"Drama, Fantasy, Horror",7.7
+199,Agatha: House of Harkness,,"Action, Adventure, Comedy", 
+200,Shaman King,(2021– ),"Animation, Action, Adventure",7.2
+201,The Irregulars,(2021),"Crime, Drama, Fantasy",6.0
+202,Wonder Woman,(1975–1979),"Action, Adventure, Fantasy",7.1
+203,Fruits Basket,(2019–2021),"Animation, Comedy, Drama",8.6
+204,Fairy Tail: Fearî teiru,(2009–2019),"Animation, Action, Adventure",7.9
+205,The Dark Crystal: Age of Resistance,(2019),"Adventure, Drama, Family",8.4
+206,Wizards of Waverly Place,(2007–2012),"Adventure, Comedy, Drama",6.9
+207,Happy!,(2017–2019),"Action, Comedy, Crime",8.2
+208,Eli Stone,(2008–2009),"Comedy, Drama, Fantasy",7.7
+209,Mob Psycho 100,(2016– ),"Animation, Action, Comedy",8.6
+210,Saving Hope,(2012–2017),"Drama, Fantasy",7.5
+211,The Amazing World of Gumball,(2011–2019),"Animation, Short, Adventure",8.2
+212,Salem,(2014–2017),"Drama, Fantasy, Horror",7.2
+213,Dark Shadows,(1966–1971),"Drama, Fantasy, Horror",8.0
+214,Are You Afraid of the Dark?,(1990–2000),"Drama, Family, Fantasy",8.2
+215,Arthur,(1996–2022),"Animation, Short, Adventure",7.3
+216,Touched by an Angel,(1994–2003),"Drama, Family, Fantasy",6.1
+217,The Watch,(2020– ),"Comedy, Crime, Drama",5.4
+218,Dragon Ball Super: Doragon bôru cho,(2015–2018),"Animation, Action, Adventure",8.3
+219,Daybreak,(I) (2019),"Action, Adventure, Comedy",6.7
+220,The Bureau of Magical Things,(2018– ),"Family, Fantasy, Mystery",6.8
+221,Penny Dreadful: City of Angels,(2020),"Crime, Drama, Fantasy",6.0
+222,Centaurworld,(2021),"Animation, Short, Adventure",7.6
+223,Forever,(2014–2015),"Crime, Drama, Fantasy",8.3
+224,Samurai Jack,(2001–2017),"Animation, Action, Adventure",8.5
+225,Dragon Ball: Doragon bôru,(1986–1989),"Animation, Action, Adventure",8.5
+226,Violet Evergarden,(2018),"Animation, Drama, Fantasy",8.5
+227,From Dusk Till Dawn: The Series,(2000–2016),"Action, Crime, Fantasy",6.9
+228,The Protector,(2018–2020),"Action, Fantasy, Sci-Fi",6.6
+229,Terminator: The Sarah Connor Chronicles,(2008–2009),"Action, Drama, Fantasy",7.6
+230,Maya and the Three,(2021),"Animation, Action, Adventure",8.2
+231,Lost Girl,(2010–2016),"Action, Drama, Fantasy",7.7
+232,Lexx,(1996–2002),"Action, Adventure, Comedy",7.3
+233,Da Vinci's Demons,(2013–2015),"Adventure, Biography, Drama",8.0
+234,Solos,(2021– ),"Drama, Fantasy, Sci-Fi",5.9
+235,The Dragon Prince,(2018– ),"Animation, Action, Adventure",8.4
+236,Legend of the Seeker,(2008–2010),"Action, Adventure, Drama",7.6
+237,That Time I Got Reincarnated as a Slime,(2018– ),"Animation, Action, Adventure",8.1
+238,Primal,(2019– ),"Animation, Action, Adventure",8.7
+239,Birds of Prey,(2002–2003),"Action, Adventure, Drama",6.4
+240,Requiem,(2018),"Drama, Fantasy, Mystery",6.4
+241,Julie and the Phantoms,(2020),"Adventure, Comedy, Drama",8.5
+242,The Proud Family,(2001–2005),"Animation, Comedy, Family",6.5
+243,Ansatsu kyôshitsu,(2013–2016),"Animation, Action, Comedy",8.0
+244,Undone,(2019– ),"Animation, Drama, Fantasy",8.2
+245,Fumetsu no Anata e,(2021– ),"Animation, Adventure, Drama",8.7
+246,Highlander,(1992–1998),"Action, Adventure, Fantasy",7.2
+247,Sijipeuseu: The Myth,(2021– ),"Action, Drama, Fantasy",7.1
+248,Arifureta Shokugyou de Sekai Saikyou,(2019– ),"Animation, Action, Adventure",7.1
+249,She-Ra and the Princesses of Power,(2018–2020),"Animation, Action, Adventure",7.8
+250,Tidelands,(2018),"Crime, Drama, Fantasy",6.9
+251,Justice League Unlimited,(2004–2006),"Animation, Action, Adventure",8.7
+252,The Munsters,(1964–1966),"Comedy, Family, Fantasy",7.8
+253,Ghost Wars,(2017–2018),"Drama, Fantasy, Horror",6.3
+254,Tribes of Europa,(2021– ),"Action, Adventure, Drama",6.7
+255,Dinosaurs,(1991–1994),"Comedy, Family, Fantasy",7.5
+256,Teen Titans,(2003–2006),"Animation, Action, Adventure",7.9
+257,Q-Force,(2021– ),"Animation, Action, Adventure",6.4
+258,Akame ga Kill!,(2014),"Animation, Action, Adventure",7.8
+259,Ghost Doctor,(2022– ),"Comedy, Fantasy, Romance",8.0
+260,Haven,(2010–2015),"Crime, Drama, Fantasy",7.5
+261,Hilda,(2018– ),"Animation, Short, Adventure",8.6
+262,Troy: Fall of a City,(2018– ),"Action, Adventure, Fantasy",3.8
+263,Helstrom,(2020),"Action, Adventure, Drama",6.8
+264,Food Wars: Shokugeki no Soma,(2015– ),"Animation, Comedy, Drama",8.1
+265,Power Rangers: Dino Fury,(2021–2022),"Action, Adventure, Comedy",6.8
+266,Highway to Heaven,(1984–1989),"Drama, Fantasy",6.8
+267,Just Beyond,(2021– ),"Comedy, Fantasy, Horror",6.1
+268,Land of the Lost,(1974–1977),"Adventure, Family, Fantasy",7.1
+269,Bungou Stray Dogs,(2016– ),"Animation, Action, Comedy",7.8
+270,My Little Pony: Friendship Is Magic,(2010–2020),"Animation, Adventure, Comedy",7.6
+271,Vanitas no Carte,(2021– ),"Animation, Fantasy, Horror",7.7
+272,Close Enough,(2020– ),"Animation, Short, Action",8.0
+273,Blood of Zeus,(2020– ),"Animation, Action, Adventure",7.5
+274,Hotel Del Luna,(2019),"Drama, Fantasy, Horror",8.2
+275,Platinum End,(2021– ),"Animation, Action, Drama",6.8
+276,Monsters at Work,(2021– ),"Animation, Adventure, Comedy",7.1
+277,Teen Titans Go!,(2013– ),"Animation, Short, Action",5.3
+278,The King: Youngwonui Gunjoo,(2020),"Fantasy, Mystery, Romance",8.2
+279,Channel Zero,(2016–2018),"Crime, Drama, Fantasy",7.2
+280,Justice League,(2001–2004),"Animation, Action, Adventure",8.5
+281,Being Human,(2008–2013),"Comedy, Drama, Fantasy",7.8
+282,Spidey and His Amazing Friends,(2021– ),"Animation, Action, Adventure",6.0
+283,Dead Like Me,(2003–2004),"Comedy, Drama, Fantasy",8.1
+284,Tate no Yuusha no Nariagari,(2019– ),"Animation, Action, Adventure",8.1
+285,Emerald City,(2016–2017),"Adventure, Drama, Fantasy",7.2
+286,Seishun Buta Yaro wa Bunny Girl-senpai no Yume wo Minai,(2018– ),"Animation, Drama, Fantasy",8.1
+287,Super Dragon Ball Heroes,(2018– ),"Animation, Action, Adventure",6.9
+288,The Amazing Spider-Man,(1977–1979),"Action, Adventure, Crime",6.3
+289,Fire Force,(2019– ),"Animation, Action, Drama",7.7
+290,Riget,(1994–2022),"Comedy, Drama, Fantasy",8.3
+291,Bitten,(2014–2016),"Drama, Fantasy, Horror",7.0
+292,The Fairly OddParents,(2001–2017),"Animation, Adventure, Comedy",7.2
+293,One Piece,,"Action, Adventure, Drama", 
+294,Shinmai Maou no Testament,(2015– ),"Animation, Action, Comedy",6.7
+295,Hercules: The Legendary Journeys,(1995–1999),"Action, Adventure, Drama",6.5
+296,Dungeon ni Deai wo Motomeru no wa Machigatteiru Darou ka,(2015– ),"Animation, Action, Adventure",7.4
+297,Angels in America,(2003),"Drama, Fantasy, Romance",8.2
+298,Leyla ile Mecnun,(2011–2022),"Adventure, Comedy, Drama",9.1
+299,Wellington Paranormal,(2018– ),"Comedy, Crime, Fantasy",7.7
+300,Being Human,(2011–2014),"Drama, Fantasy, Horror",7.5
+301,Helluva Boss,(2019– ),"Animation, Comedy, Crime",7.8
+302,Gumihodyeon,(2020– ),"Fantasy, Horror, Romance",8.0
+303,Mako Mermaids,(2013–2016),"Adventure, Comedy, Drama",6.8
+304,The Hardy Boys,(2020– ),"Adventure, Drama, Family",7.1
+305,Atlantis,(2013–2015),"Adventure, Drama, Fantasy",6.6
+306,Teenage Mutant Ninja Turtles,(2012–2017),"Animation, Action, Adventure",7.8
+307,Witches of East End,(2013–2014),"Drama, Fantasy, Horror",7.6
+308,Scooby-Doo and Guess Who?,(2019– ),"Animation, Comedy, Family",7.4
+309,NOS4A2,(2019–2020),"Drama, Fantasy, Horror",6.7
+310,Super Crooks,(2021– ),"Animation, Action, Adventure",7.2
+311,Primeval,(2007–2011),"Action, Adventure, Drama",7.3
+312,Overlord,(2015– ),"Animation, Action, Adventure",7.8
+313,Hanyô no Yashahime,(2020– ),"Animation, Action, Adventure",7.2
+314,Devilman: Crybaby,(2018),"Animation, Action, Drama",7.6
+315,Girl From Nowhere,(2018– ),"Crime, Drama, Fantasy",7.7
+316,Star vs. the Forces of Evil,(2015–2019),"Animation, Action, Adventure",7.8
+317,The Midnight Gospel,(2020– ),"Animation, Adventure, Comedy",8.2
+318,Him-ssen yeo-ja Do Bong-soon,(2017),"Comedy, Crime, Drama",8.2
+319,Action Pack,(2022– ),"Animation, Action, Adventure",6.5
+320,Constantine,(2014–2015),"Crime, Drama, Fantasy",7.5
+321,Truth Seekers,(2020),"Comedy, Drama, Fantasy",7.1
+322,Gargoyles,(1994–1996),"Animation, Action, Adventure",8.1
+323,Paradise City,(2021– ),"Drama, Fantasy, Music",6.8
+324,Night Gallery,(1969–1973),"Drama, Fantasy, Horror",7.9
+325,Thomas the Tank Engine & Friends,(1984–2021),"Animation, Adventure, Comedy",6.6
+326,Mastram,(2020– ),"Comedy, Fantasy",7.2
+327,Nisser,(2021– ),"Drama, Fantasy, Horror",5.5
+328,We Bare Bears,(2014–2019),"Animation, Adventure, Comedy",7.9
+329,Hagane no renkinjutsushi,(2003–2004),"Animation, Action, Adventure",8.5
+330,Infinity Train,(I) (2019–2021),"Animation, Action, Adventure",8.5
+331,October Faction,(2020),"Adventure, Drama, Fantasy",6.2
+332,Dangshini Jamdeun Saie,(2017),"Comedy, Drama, Fantasy",8.3
+333,"Midnight, Texas",(2017–2018),"Drama, Fantasy, Mystery",7.4
+334,The Real Ghost Busters,(1986–1991),"Animation, Action, Comedy",7.6
+335,Aseudal Yeondaegi,(2019– ),"Action, Drama, Fantasy",8.4
+336,Ninjago: Masters of Spinjitzu,(2011–2019),"Animation, Action, Adventure",7.3
+337,Made in Abyss,(2017– ),"Animation, Adventure, Drama",8.4
+338,Dalui Yeonin - Bobogyungsim Ryeo,(2016),"Drama, Fantasy, History",8.7
+339,Gyeongiroun Somun,(2020– ),"Action, Fantasy, Horror",8.1
+340,ARK: The Animated Series,(2022– ),"Animation, Action, Adventure", 
+341,Yu-Gi-Oh!,(I) (2000–2006),"Animation, Action, Adventure",7.3
+342,The Letter for the King,(2020– ),"Action, Adventure, Family",5.9
+343,30 Monedas,(2020– ),"Drama, Fantasy, Horror",7.2
+344,Dragons: The Nine Realms,(2021– ),"Animation, Short, Action",5.6
+345,That's So Raven,(2003–2007),"Comedy, Family, Fantasy",6.6
+346,The Croods: Family Tree,(2021– ),"Animation, Short, Adventure",7.0
+347,Trollhunters,(2016–2018),"Animation, Action, Adventure",8.4
+348,Courage the Cowardly Dog,(1999–2002),"Animation, Adventure, Comedy",8.2
+349,Mickey Mouse Clubhouse,(2006–2016),"Animation, Adventure, Comedy",5.7
+350,The Frankenstein Chronicles,(2015–2017),"Crime, Drama, Fantasy",7.3
+351,The Mighty Boosh,(2003–2007),"Comedy, Fantasy, Musical",8.3
+352,Garth Marenghi's Darkplace,(2004),"Comedy, Fantasy, Horror",8.5
+353,Heroes Reborn,(2015–2016),"Drama, Fantasy, Sci-Fi",6.7
+354,Beastars,(2019– ),"Animation, Crime, Drama",7.8
+355,Inuyasha,(2000–2004),"Animation, Action, Adventure",7.9
+356,Goosebumps,(1995–1998),"Family, Fantasy, Horror",7.7
+357,Gremlins: Secrets of the Mogwai,(2022– ),"Animation, Adventure, Comedy", 
+358,The Outer Limits,(1963–1965),"Fantasy, Horror, Sci-Fi",8.2
+359,A Christmas Carol,(2019),"Drama, Fantasy",7.2
+360,Star Wars: Clone Wars,(2003–2005),"Animation, Action, Adventure",7.8
+361,Bubble Guppies,(2011–2021),"Animation, Short, Adventure",6.3
+362,Sofia the First,(2012–2018),"Animation, Adventure, Family",6.9
+363,God Friended Me,(2018–2020),"Comedy, Drama, Fantasy",6.9
+364,Fraggle Rock,(1983–1987),"Animation, Adventure, Comedy",7.9
+365,Santa Clause,,"Comedy, Drama, Family", 
+366,The Secret Circle,(2011–2012),"Drama, Fantasy, Horror",7.3
+367,Storm of the Century,(1999),"Drama, Fantasy, Horror",7.4
+368,Tangled: The Series,(2017–2020),"Animation, Action, Adventure",7.7
+369,Dominion,(2014–2015),"Action, Drama, Fantasy",6.8
+370,Adventure Time: Distant Lands,(2020–2021),"Animation, Action, Adventure",8.7
+371,Shaman Kingu,(2001–2005),"Animation, Action, Adventure",8.1
+372,Rangers of the New Republic,,"Action, Adventure, Drama", 
+373,Once Upon a Time in Wonderland,(2013–2014),"Adventure, Drama, Fantasy",7.0
+374,Feria: La luz más oscura,(2022– ),"Crime, Drama, Fantasy", 
+375,Chen qing ling,(2019),"Action, Adventure, Drama",9.0
+376,Merlin,(1998),"Action, Adventure, Drama",7.1
+377,The Wheel of Time: Origins,(2021– ),"Animation, Drama, Fantasy",7.3
+378,Kono subarashii sekai ni shukufuku o!,(2016–2017),"Animation, Adventure, Comedy",7.8
+379,Dragons: Race to the Edge,(2015–2018),"Animation, Action, Adventure",8.2
+380,Amazing Stories,(2020– ),"Action, Adventure, Drama",6.3
+381,Elena of Avalor,(2016–2020),"Animation, Action, Adventure",6.5
+382,Ninjago,(2019– ),"Animation, Action, Adventure",7.9
+383,Ashes to Ashes,(2008–2010),"Crime, Drama, Fantasy",8.2
+384,The Lion Guard,(2015–2022),"Animation, Action, Adventure",6.4
+385,The Gift,(2019–2021),"Drama, Fantasy, Mystery",7.1
+386,Early Edition,(1996–2000),"Adventure, Comedy, Drama",7.5
+387,Saiki Kusuo no Psi Nan,(2016– ),"Animation, Comedy, Fantasy",8.4
+388,Room 104,(2017–2020),"Comedy, Drama, Fantasy",6.1
+389,Crossing Swords,(2020– ),"Animation, Comedy, Fantasy",6.7
+390,Cheolinwanghoo,(2020–2021),"Comedy, Fantasy, Romance",8.8
+391,Tin Man,(2007),"Adventure, Fantasy, Sci-Fi",7.1
+392,Dragon's Dogma,(2020– ),"Animation, Action, Adventure",6.3
+393,Dororo,(2019),"Animation, Action, Adventure",8.4
+394,Hazbin Hotel,(2019– ),"Animation, Comedy, Crime",7.6
+395,Hellsing Ultimate,(2006–2012),"Animation, Action, Fantasy",8.3
+396,The Powerpuff Girls,(1998–2005),"Animation, Action, Adventure",7.3
+397,Percy Jackson and the Olympians,,"Action, Adventure, Drama", 
+398,Are You Afraid of the Dark?,(2019–2021),"Adventure, Drama, Family",7.2
+399,Monster Musume no Iru Nichijou,(2015– ),"Animation, Comedy, Fantasy",6.7
+400,Goblin Slayer,(2018– ),"Animation, Action, Adventure",7.5
+401,Fate/Zero,(2011–2012),"Animation, Action, Adventure",8.3
+402,Dragon Ball,(1995–2003),"Animation, Action, Adventure",8.5
+403,"Sekai Saikou no Ansatsusha, Isekai Kizoku ni Tensei Suru",(2021– ),"Animation, Action, Fantasy",7.5
+404,The 10th Kingdom,(2000),"Adventure, Comedy, Family",8.3
+405,SurrealEstate,(2021),"Drama, Fantasy, Mystery",7.2
+406,Beruseruku,(2016–2017),"Animation, Action, Adventure",6.8
+407,The Dead Zone,(2002–2007),"Drama, Fantasy, Mystery",7.4
+408,Camelot,(2011),"Drama, Fantasy, History",6.5
+409,Eoneu Nal Uri Jib Hyeongwaeuro Myeolmangyi Deuleowassda,(2021– ),"Drama, Fantasy, Romance",8.1
+410,Astrid and Lilly Save the World,(2022– ),"Adventure, Comedy, Drama",5.4
+411,Mieruko-chan,(2021– ),"Animation, Comedy, Fantasy",7.4
+412,The Flash,(1990–1991),"Action, Crime, Fantasy",7.1
+413,The Passage,(2019),"Action, Adventure, Drama",7.3
+414,Pooreun Badaui Junsul,(2016–2017),"Comedy, Fantasy, Romance",8.1
+415,The Wonderful World of Disney,(1997–2005),"Adventure, Comedy, Drama",7.5
+416,The Shining,(1997),"Drama, Fantasy, Horror",6.1
+417,Kiru ra kiru: KILL la KILL,(2013–2014),"Animation, Action, Comedy",7.9
+418,Sabikui Bisco,(2022– ),"Animation, Action, Adventure",7.9
+419,Gabby's Dollhouse,(2021– ),"Animation, Short, Adventure",7.2
+420,Voltron: Legendary Defender,(2016–2018),"Animation, Action, Adventure",8.0
+421,The Odyssey,(1997),"Adventure, Drama, Fantasy",7.0
+422,Just Add Magic,(2015– ),"Comedy, Drama, Family",8.3
+423,Free Spirit,(1989–1990),"Comedy, Fantasy",6.9
+424,The Girl in the Woods,(2021– ),"Drama, Fantasy, Horror",5.4
+425,Monsterland,(2020),"Drama, Fantasy, Horror",5.6
+426,Sigeuneol,(2016),"Crime, Drama, Fantasy",8.6
+427,The Batman,(2004–2008),"Animation, Action, Adventure",7.3
+428,Shûmatsu no Valkyrie,(2021– ),"Animation, Action, Adventure",6.2
+429,Link Click,(2021– ),"Animation, Action, Fantasy",8.8
+430,The Sarah Jane Adventures,(2007–2020),"Action, Adventure, Drama",7.4
+431,W - Du gaeui segye,(2016),"Drama, Fantasy, Romance",8.1
+432,Kaifuku Jutsushi no Yarinaoshi,(2021– ),"Animation, Action, Adventure",6.3
+433,The Twilight Zone,(1985–1989),"Drama, Fantasy, Horror",7.8
+434,Scooby-Doo! Mystery Incorporated,(2010–2013),"Animation, Adventure, Comedy",8.0
+435,Saving Grace,(2007–2010),"Drama, Fantasy",7.6
+436,Watership Down,(2018),"Animation, Action, Adventure",7.3
+437,Man Seeking Woman,(2015–2017),"Comedy, Fantasy, Romance",7.8
+438,The Worst Witch,(2017– ),"Family, Fantasy",7.3
+439,Hotel Transylvania,(2017–2020),"Animation, Comedy, Family",5.5
+440,Reaper,(2007–2009),"Adventure, Comedy, Drama",7.7
+441,The Acolyte,,"Action, Adventure, Drama", 
+442,Relic Hunter,(1999–2002),"Fantasy, Mystery, Adventure",6.6
+443,Equinox,(2020– ),"Drama, Fantasy, Mystery",6.1
+444,Powerpuff,,"Action, Adventure, Comedy", 
+445,Here and Now,(2018),"Comedy, Drama, Fantasy",6.8
+446,Tru Calling,(2003–2005),"Drama, Fantasy, Mystery",7.4
+447,X-Men '97,,"Animation, Action, Adventure", 
+448,We Baby Bears,(2022– ),"Animation, Adventure, Comedy",6.6
+449,Kobayashi-san Chi No Maid Dragon,(2017–2022),"Animation, Comedy, Fantasy",7.7
+450,Adventures of the Gummi Bears,(1985–1991),"Animation, Adventure, Family",7.5
+451,The New Legends of Monkey,(2018– ),"Action, Adventure, Comedy",6.5
+452,Dragon Ball Z: Doragon bôru zetto,(1989–1996),"Animation, Action, Adventure",8.7
+453,Being Erica,(2009–2011),"Adventure, Comedy, Drama",7.5
+454,The Time Traveler's Wife,,"Animation, Drama, Fantasy", 
+455,House of Anubis,(2011–2013),"Adventure, Drama, Family",7.4
+456,Chainsaw Man,(2022– ),"Animation, Action, Adventure", 
+457,Man from Atlantis,(1977–1978),"Adventure, Fantasy, Sci-Fi",6.5
+458,Isekai Mao to Shokan Shojo no Dorei Majutsu,(2018– ),"Animation, Adventure, Comedy",7.0
+459,gen:LOCK,(2018– ),"Animation, Action, Adventure",7.2
+460,Spawn,(1997–1999),"Animation, Action, Adventure",8.1
+461,Scissor Seven,(2018– ),"Animation, Action, Adventure",8.4
+462,Light as a Feather,(2018–2019),"Drama, Fantasy, Horror",6.6
+463,The Secret World of Alex Mack,(1994–1998),"Comedy, Drama, Family",7.5
+464,Marvel Studios: Legends,(2021– ),"Short, Action, Fantasy",6.6
+465,House of Mouse,(2001–2003),"Animation, Comedy, Family",7.5
+466,Frequency,(2016–2017),"Drama, Fantasy, Mystery",7.5
+467,Teenage Euthanasia,(2021– ),"Animation, Comedy, Fantasy",5.7
+468,Hercules,(1998–1999),"Animation, Action, Adventure",6.6
+469,Wiedzmin,(2002– ),"Action, Adventure, Drama",5.7
+470,Mao Gakuin no Futekigosha,(2020–2022),"Animation, Adventure, Comedy",7.3
+471,Dummy,(2020– ),"Short, Comedy, Drama",6.6
+472,Parker Lewis Can't Lose,(1990–1993),"Comedy, Fantasy",7.9
+473,Eojjeoda Balgyeonhan Haru,(2019),"Comedy, Fantasy, Romance",7.8
+474,"The Lion, the Witch and the Wardrobe",(1988),"Adventure, Drama, Family",7.2
+475,The Grim Adventures of Billy & Mandy,(2001–2007),"Animation, Adventure, Comedy",7.7
+476,Star Wars: Lando,,"Action, Adventure, Crime", 
+477,Noragami,(2014–2016),"Animation, Action, Adventure",7.9
+478,Cleopatra 2525,(2000–2001),"Sci-Fi, Action, Fantasy",5.9
+479,Byeol-e-seo on geu-dae,(2013–2014),"Comedy, Drama, Fantasy",8.2
+480,Powerless,(2017),"Comedy, Fantasy, Sci-Fi",6.4
+481,Yu yu hakusho,(1992–1995),"Animation, Action, Adventure",8.4
+482,Rugrats,(2021– ),"Animation, Short, Adventure",3.6
+483,Mortal Kombat: Conquest,(1998–1999),"Action, Adventure, Fantasy",6.3
+484,Forever,(I) (2018),"Comedy, Drama, Fantasy",7.1
+485,The Ghost and Molly McGee,(2021– ),"Animation, Short, Adventure",7.1
+486,Paranormal,(2020– ),"Drama, Fantasy, Horror",8.5
+487,Tokyo Ghoul: re,(2018),"Animation, Action, Drama",6.7
+488,Jonathan Strange & Mr Norrell,(2015),"Fantasy, History, War",8.1
+489,He-Man and the Masters of the Universe,(2021),"Animation, Action, Adventure",6.0
+490,Beyond Belief: Fact or Fiction,(1997–2002),"Mystery, Thriller, Fantasy",8.0
+491,Yasuke,(2021– ),"Animation, Action, Adventure",6.2
+492,Wonder Egg Priority,(2021– ),"Animation, Action, Drama",7.7
+493,Les revenants,(2012–2015),"Drama, Fantasy, Horror",8.1
+494,Hunter x Hunter,(1999–2001),"Animation, Action, Adventure",8.6
+495,Genjitsu-shugi-yûsha no ôkoku-saiken-ki,(2021– ),"Animation, Action, Comedy",7.1
+496,Vampire Academy,(2022– ),"Drama, Fantasy", 
+497,Kuroshitsuji,(2008–2010),"Animation, Action, Comedy",7.7
+498,Gan Tteoleojineun Donggeo,(2021),"Comedy, Fantasy, Romance",7.9
+499,The Listener,(2009–2014),"Crime, Drama, Fantasy",6.8
+500,Batwheels,(2022– ),"Animation, Action, Adventure", 
+501,Dorohedoro,(2020– ),"Animation, Action, Comedy",8.1
+502,The Three-Body Problem,,"Adventure, Drama, Fantasy", 
+503,He-Man and the Masters of the Universe,(1983–1985),"Animation, Action, Adventure",7.5
+504,Winx Club,(2004–2019),"Animation, Action, Adventure",6.2
+505,Kipo and the Age of Wonderbeasts,(2020),"Animation, Action, Adventure",8.2
+506,The Dresden Files,(2007–2008),"Crime, Drama, Fantasy",7.7
+507,Aladdin,(1994–1995),"Animation, Action, Adventure",7.3
+508,Blade: The Series,(2006),"Action, Drama, Fantasy",6.3
+509,Trese,(2021– ),"Animation, Action, Adventure",7.0
+510,Mutant X,(2001–2004),"Action, Adventure, Drama",6.0
+511,Jackie Chan Adventures,(2000–2005),"Animation, Action, Adventure",7.4
+512,La Révolution,(2020),"Action, Adventure, Drama",6.5
+513,Dead Pixels,(2019– ),"Comedy, Fantasy",7.4
+514,Pair of Kings,(2010–2013),"Comedy, Family, Fantasy",5.9
+515,Sailor Moon,(1995–2000),"Animation, Action, Adventure",7.6
+516,Mister Rogers' Neighborhood,(1968–2001),"Family, Fantasy, Music",8.6
+517,Weird Science,(1994–1998),"Comedy, Fantasy, Sci-Fi",6.8
+518,The InBetween,(2019),"Crime, Drama, Fantasy",7.1
+519,DC Super Hero Girls,(2019– ),"Animation, Action, Adventure",7.1
+520,The God of High School,(2020),"Animation, Action, Adventure",7.3
+521,PJ Masks,(2015– ),"Animation, Action, Adventure",5.4
+522,Date a Live,(2013– ),"Animation, Action, Comedy",7.0
+523,Dog with a Blog,(2012–2015),"Comedy, Drama, Family",4.9
+524,Danny Phantom,(2003–2007),"Animation, Action, Adventure",7.1
+525,RWBY,(2012– ),"Animation, Action, Adventure",7.6
+526,The Lost Room,(2006),"Action, Fantasy, Mystery",8.2
+527,El ministerio del tiempo,(2015– ),"Adventure, Comedy, Fantasy",8.2
+528,Bishôjo senshi Sêrâ Mûn,(1992–1997),"Animation, Action, Adventure",7.8
+529,The Best Sex Ever,(2002–2003),"Adventure, Drama, Fantasy",6.1
+530,Find Me in Paris,(2018–2020),"Comedy, Drama, Family",7.2
+531,Alice in Wonderland,(II) (1985),"Adventure, Family, Fantasy",7.3
+532,Takt Op. Destiny,(2021– ),"Animation, Action, Adventure",7.2
+533,Friday the 13th: The Series,(1987–1990),"Fantasy, Horror, Mystery",7.6
+534,A Tale Dark & Grimm,(2021– ),"Animation, Action, Adventure",7.3
+535,Yonderland,(2013–2016),"Comedy, Fantasy",7.9
+536,Tiempos de guerra,(2017),"Drama, Fantasy, Horror",7.6
+537,The Erotic Traveler,(2007),"Adventure, Drama, Fantasy",5.8
+538,Ao no ekusoshisuto,(2011–2012),"Animation, Action, Drama",7.5
+539,Mortal Kombat,(2011–2013),"Short, Action, Adventure",7.4
+540,Believe,(2014),"Drama, Fantasy, Sci-Fi",7.1
+541,Wolfblood,(2012–2017),"Family, Fantasy",7.6
+542,Fate/stay night: Unlimited Blade Works,(2014–2015),"Animation, Action, Adventure",8.0
+543,Summer Camp Island,(2018– ),"Animation, Short, Adventure",7.4
+544,3Below: Tales of Arcadia,(2018–2019),"Animation, Action, Adventure",7.7
+545,Moonlight,(2007–2008),"Drama, Fantasy, Horror",7.6
+546,Hwayugi,(2017–2018),"Comedy, Fantasy, Horror",8.1
+547,Cidade Invisível,(2021– ),"Crime, Drama, Fantasy",7.3
+548,Thundercats,(1985–1989),"Animation, Action, Adventure",7.9
+549,Superboy,(1988–1992),"Adventure, Fantasy, Sci-Fi",6.2
+550,X-Men: Evolution,(2000–2003),"Animation, Action, Drama",7.8
+551,DuckTales,(1987–1990),"Animation, Action, Adventure",8.1
+552,Mahouka koukou no rettousei,(2014– ),"Animation, Action, Drama",7.2
+553,Word of Honor,(2021– ),"Action, Drama, Fantasy",8.9
+554,The Rook,(2019),"Drama, Fantasy, Sci-Fi",6.8
+555,Matrix,(1993),"Action, Drama, Fantasy",8.0
+556,The Wild Thornberrys,(1998–2004),"Animation, Adventure, Comedy",6.7
+557,"No Game, No Life",(2014),"Animation, Adventure, Comedy",7.7
+558,Fairfax,(2021– ),"Animation, Adventure, Comedy",4.9
+559,The Ray Bradbury Theater,(1985–1992),"Drama, Fantasy, Horror",7.5
+560,Beulraek,(2017),"Crime, Drama, Fantasy",7.9
+561,La corde,(2021– ),"Drama, Fantasy",5.6
+562,Dinotopia,(II) (2002),"Adventure, Family, Fantasy",6.6
+563,Bakemonogatari,(2009–2010),"Animation, Action, Comedy",8.0
+564,Mike Tyson Mysteries,(2014–2020),"Animation, Adventure, Comedy",8.1
+565,Amazing Stories,(1985–1987),"Adventure, Comedy, Drama",7.5
+566,RoboCop,(1994),"Action, Adventure, Crime",5.8
+567,Foster's Home for Imaginary Friends,(2004–2009),"Animation, Adventure, Comedy",7.6
+568,Mo Dao Zu Shi,(2018– ),"Animation, Action, Adventure",8.6
+569,Rakudai Kishi no Cavalry,(2015),"Animation, Action, Fantasy",7.3
+570,The Magic School Bus,(1994–1997),"Animation, Adventure, Comedy",7.8
+571,Robin of Sherwood,(1984–1986),"Action, Drama, Fantasy",8.4
+572,Batman: Caped Crusader,(2022– ),"Animation, Action, Adventure", 
+573,TaleSpin,(1990–1991),"Animation, Action, Adventure",7.6
+574,Tales from the Darkside,(1983–1988),"Comedy, Drama, Fantasy",7.5
+575,Hammer House of Horror,(1980),"Drama, Fantasy, Horror",7.6
+576,Zapped,(2016–2018),"Comedy, Fantasy",6.8
+577,Owari No Seraph,(2015),"Animation, Action, Adventure",7.5
+578,Digimon: Digital Monsters,(1999–2003),"Animation, Action, Adventure",7.3
+579,Faerie Tale Theatre,(1982–1987),"Adventure, Comedy, Family",8.4
+580,The Boss Baby: Back in Business,(2018–2021),"Animation, Adventure, Comedy",6.5
+581,Shut Eye,(2016–2017),"Crime, Drama, Fantasy",7.3
+582,Boku dake ga inai machi,(2017),"Drama, Fantasy, Mystery",7.8
+583,Young Hercules,(1998–1999),"Action, Adventure, Fantasy",5.8
+584,Jibaku Shounen Hanako-kun,(2020– ),"Animation, Comedy, Fantasy",7.6
+585,The Haunted Hathaways,(2013–2015),"Comedy, Family, Fantasy",5.0
+586,R.L. Stine's The Haunting Hour,(2010–2014),"Short, Action, Adventure",7.9
+587,Edens Zero,(2021– ),"Animation, Action, Adventure",7.3
+588,Joan of Arcadia,(2003–2005),"Comedy, Crime, Drama",7.0
+589,American Dragon: Jake Long,(2005–2007),"Animation, Action, Comedy",6.6
+590,The Daily Life of the Immortal King,(2020– ),"Animation, Action, Adventure",7.4
+591,Spider-Man,(1967–1970),"Animation, Action, Adventure",7.4
+592,My Hero,(2000–2007),"Comedy, Fantasy, Romance",6.6
+593,Ghostwriter,(2019– ),"Family, Fantasy, Mystery",5.8
+594,Awake,(2012),"Drama, Fantasy, Mystery",7.9
+595,One Step Beyond,(1959–1961),"Drama, Fantasy, Mystery",7.8
+596,666 Park Avenue,(2012–2013),"Drama, Fantasy, Horror",6.9
+597,Conan,(1997–1998),"Action, Adventure, Fantasy",5.3
+598,Lost in Austen,(2008),"Drama, Fantasy, Romance",7.4
+599,Eitin Eogein,(2020),"Comedy, Fantasy, Romance",8.2
+600,Dragon Ball Kai: Doragon bôru kai,(2009–2015),"Animation, Action, Adventure",8.2
+601,Going Postal,(2010),"Adventure, Comedy, Fantasy",7.8
+602,Dragons: Riders of Berk,(2012–2014),"Animation, Action, Adventure",8.0
+603,Doc McStuffins,(2012–2020),"Animation, Family, Fantasy",6.5
+604,The Ghost & Mrs. Muir,(1968–1970),"Comedy, Fantasy",7.7
+605,Olaf Presents,(2021– ),"Animation, Short, Comedy",7.3
+606,Mahô shôjo Madoka magika: Puella Magi Madoka Magica,(2011),"Animation, Drama, Fantasy",8.3
+607,Doug,(1991–1994),"Animation, Adventure, Comedy",7.4
+608,Seirei Gensouki,(2021– ),"Animation, Action, Adventure",7.3
+609,The Wiggles,(1998– ),"Adventure, Comedy, Family",5.8
+610,The Last Drive-In with Joe Bob Briggs,(2018– ),"Comedy, Fantasy, Horror",9.5
+611,Wonderfalls,(2004),"Comedy, Drama, Fantasy",8.2
+612,Batman: The Brave and the Bold,(2008–2011),"Animation, Action, Adventure",7.3
+613,The Shivering Truth,(2018– ),"Animation, Comedy, Fantasy",8.1
+614,Clannad: After Story,(2008–2009),"Animation, Comedy, Drama",8.6
+615,Luna Nera,(2020– ),"Drama, Fantasy, Thriller",5.7
+616,Pokémon Journeys,(2019– ),"Animation, Adventure, Family",6.7
+617,Wizards,(2020),"Animation, Action, Adventure",8.1
+618,Creeped Out,(2017–2019),"Drama, Family, Fantasy",6.7
+619,Resurrection,(2013–2015),"Drama, Fantasy",7.3
+620,Mister Ed,(1958–1966),"Comedy, Family, Fantasy",7.0
+621,Tower of God,(2020),"Animation, Action, Adventure",7.7
+622,Kureimoa,(2007),"Animation, Action, Adventure",8.0
+623,Rise of the Teenage Mutant Ninja Turtles,(2018–2020),"Animation, Action, Adventure",5.4
+624,The Patrick Star Show,(2021– ),"Animation, Comedy, Family",3.6
+625,Shazam!,(1974–1977),"Action, Family, Fantasy",6.7
+626,Ghostwriter,(1992–1995),"Family, Fantasy, Mystery",7.8
+627,Beyond,(I) (2016–2018),"Drama, Fantasy, Mystery",7.0
+628,Dora the Explorer,(2000–2019),"Animation, Adventure, Comedy",4.2
+629,Stan Against Evil,(2016–2018),"Comedy, Fantasy, Horror",7.3
+630,Daniel Tiger's Neighborhood,(2012– ),"Animation, Family, Fantasy",7.4
+631,Green Eggs and Ham,(2019– ),"Animation, Adventure, Comedy",8.2
+632,Saiyûki,(1978–2004),"Action, Family, Adventure",8.4
+633,Mushishi,(2005–2006),"Animation, Drama, Fantasy",8.5
+634,Kamisama hajimemashita,(2012– ),"Animation, Comedy, Fantasy",8.1
+635,The Colour of Magic,(2008),"Adventure, Comedy, Fantasy",7.1
+636,Chowder,(2007–2010),"Animation, Short, Adventure",7.3
+637,The Almighty Johnsons,(2011–2013),"Comedy, Drama, Fantasy",8.2
+638,Moominvalley,(2019– ),"Animation, Drama, Family",7.2
+639,Hataraku Maou-sama!,(2013– ),"Animation, Action, Comedy",7.7
+640,Teletubbies,(1997–2001),"Family, Fantasy, Musical",3.8
+641,Shikkaku-mon no saikyô kenja,(2022– ),"Animation, Adventure, Fantasy",7.7
+642,Sôru îtâ,(2008–2009),"Animation, Action, Adventure",7.8
+643,Baywatch Nights,(1995–1997),"Action, Crime, Drama",3.8
+644,Clannad,(2007–2008),"Animation, Comedy, Drama",7.8
+645,Tinted with You,(2021–2022),"Fantasy, Romance",7.7
+646,Chambers,(2019),"Drama, Fantasy, Horror",6.5
+647,The Marvelous Misadventures of Flapjack,(2008–2010),"Animation, Short, Adventure",7.8
+648,Chip 'n' Dale Rescue Rangers,(1988–1990),"Animation, Action, Adventure",7.6
+649,Power Rangers Dino Charge,(2015–2016),"Action, Adventure, Family",6.5
+650,Beowulf: Return to the Shieldlands,(2016),"Action, Adventure, Drama",5.8
+651,Jojo no kimyô na bôken,(1993–2002),"Animation, Action, Adventure",7.8
+652,Magi: The Labyrinth of Magic,(2012–2014),"Animation, Action, Adventure",7.8
+653,Mickey Mouse,(2013–2019),"Animation, Short, Adventure",8.1
+654,Dogs in Space,(2021– ),"Animation, Action, Adventure",7.3
+655,One Lane Bridge,(2020– ),"Crime, Drama, Fantasy",6.6
+656,Thomas & Friends: All Engines Go!,(2021– ),"Adventure, Comedy, Drama",1.9
+657,My Secret Identity,(1988–1991),"Action, Adventure, Comedy",7.3
+658,She-Ra: Princess of Power,(1985–1987),"Animation, Action, Adventure",6.9
+659,Forbidden Science,(2009),"Drama, Fantasy, Mystery",5.4
+660,Darker Than Black: Kuro no keiyakusha,(2007–2010),"Animation, Action, Drama",7.7
+661,Dramaworld,(2016–2021),"Short, Comedy, Drama",7.4
+662,Power Rangers Beast Morphers,(2019–2020),"Action, Adventure, Comedy",6.8
+663,Sekirei,(2008–2010),"Animation, Action, Comedy",7.3
+664,Sikeurit Gadeun,(2010–2011),"Comedy, Drama, Fantasy",8.1
+665,Plunderer,(2020– ),"Animation, Action, Fantasy",6.4
+666,Milo Murphy's Law,(2016–2019),"Animation, Short, Action",7.5
+667,The Adventures of Sinbad,(1996–1998),"Fantasy, Action, Adventure",7.1
+668,Leadale no Daichi nite,(2022– ),"Animation, Adventure, Fantasy",7.2
+669,Ultraman,(2019– ),"Animation, Action, Adventure",6.8
+670,Labyrinth,(2012),"Adventure, Drama, Fantasy",5.9
+671,Alice,(2009),"Adventure, Drama, Fantasy",7.3
+672,Beauty & The Beast,,"Comedy, Drama, Family", 
+673,Toraburu,(2008–2010),"Animation, Action, Comedy",6.5
+674,The Unsettling,(2019– ),"Crime, Fantasy, Horror",5.3
+675,Ashes of Love,(2018),"Comedy, Fantasy, Romance",8.4
+676,BeastMaster,(1999–2002),"Action, Adventure, Fantasy",6.3
+677,Topper,(1953–1955),"Fantasy, Comedy",8.3
+678,The Storyteller,(1987–1989),"Adventure, Drama, Family",8.9
+679,Ano hi mita hana no namae o bokutachi wa mada shiranai.,(2011),"Animation, Adventure, Drama",8.2
+680,Thriller,(1973–1976),"Crime, Drama, Fantasy",7.8
+681,Hong Cheon Gi,(2021– ),"Drama, Fantasy, History",7.7
+682,Smurfs,(1981–1989),"Animation, Adventure, Comedy",7.2
+683,Sonic Boom,(2014–2017),"Animation, Short, Action",7.0
+684,"Shin no Nakama ja Nai to Yuusha no Party o Oidasareta node, Henkyou de Slow Life Suru Koto ni Shimashita",(2021– ),"Animation, Adventure, Fantasy",6.7
+685,B: The Beginning,(2018– ),"Animation, Action, Crime",7.2
+686,Twilight of the Gods,,"Animation, Action, Adventure", 
+687,Herushingu,(2001–2002),"Animation, Action, Fantasy",7.8
+688,Fraggle Rock,(1987–1988),"Animation, Adventure, Comedy",7.3
+689,Thundercats,(2011–2012),"Animation, Action, Adventure",7.8
+690,Entrelazados,(2021– ),"Comedy, Drama, Fantasy",6.8
+691,Supernatural: The Animation,(2011),"Animation, Drama, Fantasy",7.4
+692,Dungeons & Dragons,(1983–1985),"Animation, Adventure, Comedy",8.0
+693,The Returned,(2015),"Drama, Fantasy, Horror",7.1
+694,That Mitchell and Webb Look,(2006–2010),"Comedy, Fantasy",8.0
+695,Red vs. Blue,(2003– ),"Animation, Short, Action",8.3
+696,Ghoul,(2018),"Drama, Fantasy, Horror",7.1
+697,Tokyo Ghoul: Root A,(2015),"Animation, Action, Drama",7.6
+698,Vampirina,(2017–2021),"Animation, Short, Comedy",6.6
+699,Interspecies Reviewers,(2020– ),"Animation, Comedy, Fantasy",7.5
+700,Afro Samurai,(2007),"Animation, Action, Adventure",7.7
+701,Orient,(2022– ),"Animation, Adventure, Fantasy",6.8
+702,Kotetsujo no Kabaneri,(2016– ),"Animation, Action, Adventure",7.2
+703,Diablero,(2018–2020),"Adventure, Drama, Fantasy",6.7
+704,Ore dake Haireru Kakushi Dungeon,(2021),"Animation, Action, Adventure",6.5
+705,Akagami no Shirayuki-hime,(2015–2016),"Animation, Drama, Fantasy",7.8
+706,Round the Twist,(1989–2001),"Comedy, Family, Fantasy",8.1
+707,Trickster,(I) (2020),"Drama, Fantasy, Mystery",6.9
+708,Neverland,(2011),"Adventure, Fantasy",6.4
+709,Battle Through the Heavens,(2017– ),"Animation, Action, Adventure",8.9
+710,Rubí,(2004),"Adventure, Drama, Family",8.1
+711,Aquaman: King of Atlantis,(2021),"Animation, Short, Action",5.9
+712,Kamp Koral: SpongeBob's Under Years,(2021– ),"Animation, Short, Adventure",3.8
+713,Tensai Ouji no Akaji Kokka Saiseijutsu,(2022– ),"Animation, Comedy, Fantasy",7.8
+714,The Worst Witch,(1998–2001),"Adventure, Comedy, Drama",7.2
+715,Mickey Mouse Funhouse,(2021– ),"Animation, Short, Adventure",6.1
+716,Your Pretty Face Is Going to Hell,(2013– ),"Comedy, Fantasy",7.8
+717,Evermoor,(2014– ),"Adventure, Family, Fantasy",6.3
+718,Siempre Bruja,(2019– ),"Drama, Fantasy",6.3
+719,H.R. Pufnstuf,(1969–1970),"Adventure, Family, Fantasy",7.4
+720,Attack on Titan: Junior High,(2015),"Animation, Action, Adventure",7.1
+721,Yasamayanlar,(2018),"Drama, Fantasy",5.4
+722,The Twilight Zone,(2002–2003),"Drama, Fantasy, Horror",7.2
+723,Dragon Ball GT: Doragon bôru jîtî,(1996–2003),"Animation, Action, Adventure",6.8
+724,Eastwick,(2009–2010),"Drama, Fantasy",6.4
+725,Kung Fu Panda: Legends of Awesomeness,(2011–2016),"Animation, Action, Adventure",7.1
+726,Chuunibyou demo koi ga shitai!,(2012– ),"Animation, Comedy, Drama",7.4
+727,The Messengers,(2015),"Drama, Fantasy, Mystery",6.5
+728,Myeongbulheojeon,(2017),"Drama, Fantasy, Romance",8.0
+729,Kid Cosmic,(2021–2022),"Animation, Short, Action",7.9
+730,Haereul poomeun dal,(2012),"Drama, Fantasy, Romance",8.0
+731,Witchblade,(2001–2002),"Action, Drama, Fantasy",6.5
+732,The Wonderful World of Mickey Mouse,(2020– ),"Animation, Short, Adventure",7.8
+733,Street Fighter: Assassin's Fist,(2014),"Action, Adventure, Drama",7.3
+734,Rozario to banpaia,(2008),"Animation, Comedy, Fantasy",6.9
+735,Ben & Holly's Little Kingdom,(2009– ),"Animation, Adventure, Comedy",7.3
+736,"Eerie, Indiana",(1991–1992),"Adventure, Comedy, Drama",8.2
+737,Green Lantern,,"Action, Adventure, Drama", 
+738,My Babysitter's a Vampire,(2011–2012),"Action, Comedy, Fantasy",7.1
+739,The Birch,(2019– ),"Drama, Fantasy, Horror",6.7
+740,Tsuki ga michibiku isekai-dôchû,(2021– ),"Animation, Action, Adventure",7.6
+741,Spirited,(2010–2011),"Comedy, Drama, Fantasy",8.1
+742,Doragon kuesuto: Dai no daibouken,(2020– ),"Animation, Action, Adventure",8.2
+743,Goodnight Sweetheart,(1993–2016),"Comedy, Drama, Fantasy",7.4
+744,Habaekui Shinboo,(2017),"Fantasy, Romance",6.9
+745,Trinity Seven: 7-nin no Masho Tsukai,(2014–2015),"Animation, Action, Comedy",6.8
+746,Eobiseu,(2019),"Crime, Fantasy, Romance",7.1
+747,SuperMarioGlitchy4,(2011– ),"Animation, Adventure, Comedy",8.2
+748,Saihate no Paladin,(2021– ),"Animation, Adventure, Drama",6.8
+749,The Vampire Diaries: A Darker Truth,(2009),"Short, Drama, Fantasy",6.8
